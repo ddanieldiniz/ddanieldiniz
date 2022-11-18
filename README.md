@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-diniz-142901b9/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561998110123)
 
-![Daniel Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=ddanieldiniz&show_icons=true&theme=dark)
+![Daniel Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=ddanieldiniz&show_icons=true&theme=dark)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddanieldiniz&layout=compact)](https://github.com/ddanieldiniz/github-readme-stats)
 
 ### Tecnologias que utilizo em meus projetos
 
