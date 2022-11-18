@@ -3,8 +3,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-diniz-142901b9/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561998110123)
 
-![Daniel Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=ddanieldiniz&show_icons=true&theme=dark)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddanieldiniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- ✨ Buscando a oportunidade de ser contratado na area de Dev Front-end
+- 📚 Estudando/Aprofundando React
+- 🚀 Em constante progresso
+
+<div align="left">
+  <a href="https://github.com/ddanieldiniz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddanieldiniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddanieldiniz&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Tecnologias que utilizo em meus projetos
 
@@ -14,5 +21,3 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
-
-Estou estudando mais tecnologias Front-End, atualmente começando REACT e em breve estarei postando meus novos projetos utilizando essa biblioteca JavaScript.
