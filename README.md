@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel Diniz 👨‍💻
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-diniz-142901b9/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561998110123)
+
 
 - ✨ Buscando a oportunidade de ser contratado na area de Dev Front-end
 - 📚 Estudando/Aprofundando React
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddanieldiniz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Tecnologias que utilizo em meus projetos
+## Tecnologias que utilizo em meus projetos
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
